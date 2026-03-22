@@ -99,7 +99,6 @@ python main.py
 * Brownie Menu
 * Bill Generation Page
 
-*(Screenshots can be added here)*
 
 ---
 
